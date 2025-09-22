@@ -21,6 +21,15 @@ Nesse projeto apresentamos soluções de exercícios do Leetcode usando Python.
 
 ![](./screenshots/evenGrandparent.png)
 
+
+### 3 - Difícil - [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/)
+
+![](./screenshots/removeMaxNumber.png)
+
+### 4 - Média - [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)
+
+![](./screenshots/keysAndRooms.png)
+
 ## Vídeo de apresentação do Trabalho 2
 
 
