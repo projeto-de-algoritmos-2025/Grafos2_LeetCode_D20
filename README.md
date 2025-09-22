@@ -13,9 +13,12 @@ Nesse projeto apresentamos soluções de exercícios do Leetcode usando Python.
 
 ## Screenshots das Submissões
 
+### 1 - Difícil - [Shortest Cycle in a Graph](https://leetcode.com/problems/shortest-cycle-in-a-graph/description/)
+
+![](./screenshots/shortestCycle.png)
 
 ## Vídeo de apresentação do Trabalho 2
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+
 
 
 
