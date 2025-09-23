@@ -32,7 +32,7 @@ Nesse projeto apresentamos soluções de exercícios do Leetcode usando Python.
 
 ## Vídeo de apresentação do Trabalho 2
 
-
+[Vídeo da apresentação no yt](https://youtu.be/xbwZsw8OWNw)
 
 
 
